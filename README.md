@@ -1,5 +1,6 @@
 # 🎵 Twice Lyrics Analysis  
 **2025학년도 2학년 2학기 전공선택 — 응용머신러닝 기말 프로젝트**
+(https://www.kaggle.com/code/wonjongwoo/twice-song-analysis)
 
 ---
 
